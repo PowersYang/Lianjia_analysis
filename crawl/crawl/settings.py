@@ -23,6 +23,7 @@ LOG_LEVEL = 'ERROR'
 LOG_FILE = 'scrapy.log'
 
 
+
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
 USER_AGENT = "Baiduspider"
